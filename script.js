@@ -39,7 +39,7 @@
     ['Crowd Funding Platform', '💡', 'commerce', 'Campaigns, pledges and funding progress.'],
     ['Job Portal System', '💼', 'content', 'Job posts, applications and employer panel.'],
     ['Digital Learning LMS', '📚', 'content', 'Courses, lessons and learner tracking.'],
-    ['Jim Management', '🏋️', 'management', 'Members, plans and fee tracking.'],
+    ['Gym Management', '🏋️', 'management', 'Members, plans and fee tracking.'],
     ['Doctor Consultation', '🩺', 'booking', 'Find doctors and book appointments.'],
     ['Event Ticket', '🎟️', 'booking', 'Event listing with ticket booking.'],
     ['Online Auction System', '🔨', 'commerce', 'Live bidding with auction timers.'],
